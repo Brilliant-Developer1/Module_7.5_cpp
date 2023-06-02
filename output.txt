@@ -1,3 +1,1 @@
-jamal 100
-kamal 95
-lotif 90
+3
